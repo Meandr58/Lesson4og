@@ -6,3 +6,5 @@ set1 = set()
 set2 = set()
 for item in list1:
     set1.add(item)
+for item in list2:
+    set2.add(item)
