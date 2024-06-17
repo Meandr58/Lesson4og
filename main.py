@@ -8,3 +8,4 @@ for item in list1:
     set1.add(item)
 for item in list2:
     set2.add(item)
+union_set = set1.union(set2)
